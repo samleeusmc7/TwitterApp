@@ -47,7 +47,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-GIF created with [LiceCap](https://imgur.com/HwAbSTo).
+GIF : https://imgur.com/HwAbSTo
 
 ## Notes
 
