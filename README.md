@@ -61,7 +61,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-    Copyright [2019] [Oleksandr Bihary]
+    Copyright [2019] [Samul Lee]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -125,7 +125,7 @@ LINK: https://i.imgur.com/X8J8xm5.gifv
 
 ## License
 
-    Copyright 2019 Oleksandr Bihary
+    Copyright 2019 Samul Lee
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
